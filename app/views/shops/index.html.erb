@@ -1,0 +1,15 @@
+<h1> Chicago Ruby Shops </h1>
+
+<%= link_to( "Add to list", '/shops/new')  %>
+
+<ul>
+  <% @shops.each do |shop| %>
+    <li>
+    <%= link_to shop.name, shop.site %>
+    <%= link_to "Details", shop_path(shop) %>
+    <%= link_to "Edit", edit_shop_path(shop) %>
+    <%= link_to "Delete", shop_path(shop), :method => :delete, :confirm => "You sure?",
+                                        :title => "Delete #{shop.name}"  %>
+    </li>
+  <% end %>
+</ul>
