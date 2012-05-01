@@ -1,15 +1,32 @@
-<h1> Chicago Ruby Shops </h1>
+<%- model_class = Shop.new.class -%>
+<h1><%=t '.title', :default => model_class.model_name.human.pluralize %></h1>
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th><%= model_class.human_attribute_name(:name) %></th>
+      <th><%= model_class.human_attribute_name(:site) %></th>
+      <th><%=t '.actions', :default => t("helpers.actions") %></th>
+    </tr>
+  </thead>
+  <tbody>
+    <% @shops.each do |shop| %>
+      <tr>
+        <td><%= link_to shop.name, shop_path(shop) %></td>
+        <td><%= shop.site %></td>
+        <td>
+          <%= link_to t('.edit', :default => t("helpers.links.edit")),
+                      edit_shop_path(shop), :class => 'btn btn-mini' %>
+          <%= link_to t('.destroy', :default => t("helpers.links.destroy")),
+                      shop_path(shop),
+                      :method => :delete,
+                      :confirm => t('.confirm', :default => t("helpers.links.confirm", :default => 'Are you sure?')),
+                      :class => 'btn btn-mini btn-danger' %>
+        </td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
 
-<%= link_to( "Add to list", '/shops/new')  %>
-
-<ul>
-  <% @shops.each do |shop| %>
-    <li>
-    <%= link_to shop.name, shop.site %>
-    <%= link_to "Details", shop_path(shop) %>
-    <%= link_to "Edit", edit_shop_path(shop) %>
-    <%= link_to "Delete", shop_path(shop), :method => :delete, :confirm => "You sure?",
-                                        :title => "Delete #{shop.name}"  %>
-    </li>
-  <% end %>
-</ul>
+<%= link_to t('.new', :default => t("helpers.links.new")),
+            new_shop_path,
+            :class => 'btn btn-primary' %>
