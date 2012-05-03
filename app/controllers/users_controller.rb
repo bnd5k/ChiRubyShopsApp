@@ -9,14 +9,14 @@ class UsersController < ApplicationController
   end
 
   def new
-
+    @user = User.new
   end
 
   def create
-    @user = User.create(:name => :name, :email => :email, :password => :password)
+    @user = User.new(params[:user]) 
     if @user.save
       flash[:success] = "Congrats!  You exist!"
-      redirect_to shops_url
+      redirect_to users_url
     else
       render 'new'
     end
@@ -30,6 +30,7 @@ class UsersController < ApplicationController
     @user = User.find_by_id(params[:id])
     if @user.attributes_update(params[:user])
       flash[:success] = "Profile Updated"
+      redirect_to users_url
     else
       render 'edit'
     end
@@ -40,5 +41,6 @@ class UsersController < ApplicationController
     flash[:success] = "Fine.  We didn't like you anyway."
     redirect_to shops_url
   end
+  
 end
 

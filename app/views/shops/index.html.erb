@@ -12,7 +12,7 @@
     <% @shops.each do |shop| %>
       <tr>
         <td><%= link_to shop.name, shop_path(shop) %></td>
-        <td><%= shop.site %></td>
+        <td><%= link_to shop.site, shop.site  %></td>
         <td>
           <%= link_to t('.edit', :default => t("helpers.links.edit")),
                       edit_shop_path(shop), :class => 'btn btn-mini' %>

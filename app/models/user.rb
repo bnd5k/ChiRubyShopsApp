@@ -1,6 +1,5 @@
 class User < ActiveRecord::Base
-  attr_accessible :name, :email, :password, :password_confirmation
+  attr_accessible :name, :email, :github_id
   has_many :ratings
-  has_many :shops
 
 end

@@ -1,59 +1,62 @@
+Email EG with double stars and reminder re: LightBank Recruiter info
+
 37 Signals 	|	http://37signals.com/
-8th Light 	|	http://www.8thlight.com/
+*8th Light 	|	http://www.8thlight.com/
 Alder Planetarium 	|	http://www.adlerplanetarium.org
-Alltuition 	|	https://www.alltuition.com/
+**Alltuition 	|	https://www.alltuition.com/
 Applied Pathways 	|	http://www.appliedpathways.com/
 Backstop Solutions Group 	|	http://www.backstopsolutions.com/
 BenchPrep 	|	http://benchprep.com/
 BigMarker.com 	|	http://www.bigmarker.com/
-Braintree	|	https://www.braintreepayments.com
-Centro 	|	http://www.centro.net/
-Cloudbot 	|	http://cloudbot.com/
-DesignKitchen	|	http://www.designkitchen.com/
+*Braintree	|	https://www.braintreepayments.com
+*Centro 	|	http://www.centro.net/
+**Cloudbot 	|	http://cloudbot.com/
+*DesignKitchen	|	http://www.designkitchen.com/
 doggyloot 	|	https://doggyloot.com
 Efinancial 	|	http://www.efinancial.com/
-Eight Bit 	|	http://eightbit.me/
+**Eight Bit 	|	http://eightbit.me/
 Enova Financial 	|	http://www.enovafinancial.com/
 Follett Software 	|	http://www.follettsoftware.com/
 Future Simple 	|	http://www.futuresimple.com/
-Gravity Tank 	|	http://www.gravitytank.com/
-Groupon	|	http://www.groupon.com
-Grubhub.com	|	http://www.grubhub.com/
-gtrot	|	https://gtrot.com/
-HashRocket	|	http://hashrocket.com/
+**Gravity Tank (DScout)	|	http://www.gravitytank.com/
+**Groupon	|	http://www.groupon.com
+*Grubhub.com	|	http://www.grubhub.com/
+*gtrot	|	https://gtrot.com/ (ceo moved recently)
+*HashRocket	|	http://hashrocket.com/
 HoneyApps & Risk I/O 	|	https://www.risk.io/
 iCrossing: 	|	http://www.icrossing.com/
-INCISENT Technologies 	|	http://www.incisent.com/
+*INCISENT Technologies 	|	http://www.incisent.com/
 Inkling 	|	http://www.inkling.com/
 Inventables 	|	https://www.inventables.com/
-Join Creative 	|	http://www.joinjoincreative.com/
-kohactive 	|	http://www.kohactive.com/
+**Join Creative 	|	http://www.joinjoincreative.com/
+** kohactive 	|	http://www.kohactive.com/ ( really open to entry level CA folk)
 LiveText 	|	https://www.livetext.com/
 Leapfrog Online 	|	http://shop.leapfrog.com
 Local Offer Network / Dealradar.com 	|	http://www.dealradar.com
-Metromix 	|	http://www.metromix.com/
+*Metromix 	|	http://www.metromix.com/ (possible outsourcing)
 National Collegiate Scouting Association NCSA 	|	http://www.ncsasports.org/
-Neotric Design 	|	http://www.neotericdesign.com/
+*Neotric Design 	|	http://www.neotericdesign.com/ ************Reach out to Joe M. Sak
 oBaz 	|	https://www.obaz.com/
-Pathfinder 	|	http://pathfindersoftware.com/
+*OneDesign Company
+*Pathfinder 	|	http://pathfindersoftware.com/  Neal is tight with Kappe
 Pawngo	|	https://pawngo.com/
-Pitchfork Media 	|	http://pitchfork.com/
-Productive Edge 	|	http://www.productiveedge.com/
+*Pitchfork Media 	|	http://pitchfork.com/  **** matthew dennewitz
+Productive Edge 	|	http://www.productiveedge.com/ Not rails heavy
 PVPower	|	http://www.pvpower.com/
 Redbox 	|	http://www.redbox.com
-SceneTap	|	http://www.scenetap.com/
+*SceneTap	|	http://www.scenetap.com/
 ScholarPRO 	|	https://www.scholarpro.com/
 Sears 	|	http://www.searsholdings.com/
-Signal 	|	http://www.signalhq.com/
+**Signal 	|	http://www.signalhq.com/  *Jeff Judge, CEO
 Sphere Technologies 	|	http://spheretechnologies.us/
 Table XI 	|	http://www.tablexi.com/
 Timlines.com/LifesSnapz 	|	http://timelines.com/
 The Killswitch Collective 	|	http://killswitchcollective.com/
-Thoughtworks 	|	http://www.thoughtworks.com/
+*Thoughtworks 	|	http://www.thoughtworks.com  ******** tessa, recuiter (EG can get full name)
 TMX Credit / AutoCash 	|	http://tmxcredit.com/
-Trunk Club 	|	http://www.trunkclub.com
-Trilogy Interactive	|	http://www.trilogyinteractive.com
+**Trunk Club 	|	http://www.trunkclub.com
+*Trilogy Interactive	|	http://www.trilogyinteractive.com
 Tukaiz 	|	http://www.tukaiz.com/
 Vibes Media 	|	http://www.vibes.com
 Viewpoints Network 	|	http://www.viewpoints.com/
-WisdomGroup 	|	http://wisdomgroup.com/
+*WisdomGroup 	|	http://wisdomgroup.com/
